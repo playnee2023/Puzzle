@@ -1,0 +1,10 @@
+name: Puzzle
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.6
+  - setuptools
+  - pip
+  - pytest
+  - pytest-html
