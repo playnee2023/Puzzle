@@ -1,4 +1,4 @@
-#Puzzle
+# Puzzle
 
 ## Setup with pip
 python: 3.6 
